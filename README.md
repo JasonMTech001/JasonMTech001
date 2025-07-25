@@ -1,5 +1,7 @@
 <h1>Hi, I'm Jason Mosley! <br/><a ">Certified CompTIA A+ Technician</a> 
 
+<h2> 🧠 About Me: </h2>
+
 <h2>👨‍💻 IT Technical Projects:</h2>
 
 - <b> Install Laptop SSD </b>
