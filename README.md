@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Technical Projects:</h2>
 
 - <b> Install Laptop SSD </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Installing-Laptop-SSD)
 - <b> Fixing Windows OS Problem </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b> Troubleshooting Network Problems</b>
