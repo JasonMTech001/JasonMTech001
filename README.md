@@ -17,4 +17,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2> 📃 Certifications: </h2>
+
+- <b> CompTIA A+ </b>
+- <b> Google Cybersecurity </b>
 <h2> 🤳 Connect with me:</h2>
+
+- <b> Linkedin: www.linkedin.com/in/jasonmostech </b>
+- <b> Email: jasonmosley.jm@icloud.com </b> 
