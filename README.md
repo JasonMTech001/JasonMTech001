@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason Mosley! <br/><a ">Certified CompTIA A+ Technician</a> 
+<h1> 🤩 Hi, I'm Jason Mosley! <br/><a ">Certified CompTIA A+ Technician 🧑‍🔧</a> 
 
 <h2> 🧠 About Me: </h2>
 Hey there! I’m Jason Mosley, a CompTIA A+ certified technician with a strong interest in IT and hands-on technology. I'm currently growing my skills and experience to pursue a full-time role in the tech industry, with a drive to continue learning.
