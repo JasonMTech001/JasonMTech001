@@ -8,7 +8,7 @@ I’m passionate about learning by doing and always looking for ways to sharpen 
 
 <h2>👨‍💻 IT Technical Projects:</h2>
 
-- <b> Install Laptop SSD </b>
+- <b> Installing Laptop SSD </b>
   - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Installing-Laptop-SSD)
 - <b> Troubleshooting Network Issues </b>
   - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Troubleshooting-Network) <b>
