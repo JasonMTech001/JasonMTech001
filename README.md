@@ -1,6 +1,10 @@
 <h1>Hi, I'm Jason Mosley! <br/><a ">Certified CompTIA A+ Technician</a> 
 
 <h2> 🧠 About Me: </h2>
+Hey there! I’m Jason Mosley, a CompTIA A+ certified technician with a strong interest in IT and hands-on technology. I'm currently growing my skills and experience to pursue a full-time role in the tech industry, with a drive to continue learning.
+
+This GitHub is where I document my learning journey. You’ll find virtual labs where I walk through real-world tasks like SSD installations, Windows setup, and small office/home office (SOHO) network configuration. I take pride in not just completing these tasks, but breaking them down in a way that’s clear, helpful, and replicable.
+I’m passionate about learning by doing and always looking for ways to sharpen my skills, solve problems, and stay curious about what’s next in tech.
 
 <h2>👨‍💻 IT Technical Projects:</h2>
 
