@@ -11,7 +11,7 @@ I’m passionate about learning by doing and always looking for ways to sharpen 
 - <b> Installing Laptop SSD </b>
   - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Installing-Laptop-SSD)
 - <b> Troubleshooting Network Issues </b>
-  - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Troubleshooting-Network) <b>
+  - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Troubleshooting-Network) 
 - <b> Fixing Windows OS Problems </b>
   - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Fixing-Windows-OS)
 - <b> Windows Domain Configuration </b>
