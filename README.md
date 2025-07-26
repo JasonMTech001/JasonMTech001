@@ -10,9 +10,9 @@ I’m passionate about learning by doing and always looking for ways to sharpen 
 
 - <b> Install Laptop SSD </b>
   - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Installing-Laptop-SSD)
-- <b> Fixing Windows OS Problem </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b> Troubleshooting Network Problems</b>
+- <b> Troubleshooting Network Issues </b>
+  - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Troubleshooting-Network) <b>
+- <b> Fixing Windows OS Problems </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
