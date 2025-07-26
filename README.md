@@ -13,9 +13,9 @@ I’m passionate about learning by doing and always looking for ways to sharpen 
 - <b> Troubleshooting Network Issues </b>
   - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Troubleshooting-Network) <b>
 - <b> Fixing Windows OS Problems </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Fixing-Windows-OS)
 - <b> Windows Domain Configuration </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Virtual Lab Walkthrough](https://github.com/JasonMTech001/Domain-Configuration)
 
 <h2> 📃 Certifications: </h2>
 
